@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|c:\\users\\arwa.mohamed\\desktop\\arwa habit\\webapplication1\\webapplication1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|c:\\users\\arwa.mohamed\\desktop\\arwa habit\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|c:\\users\\arwa.mohamed\\desktop\\arwa habit\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|c:\\users\\arwa.mohamed\\desktop\\arwa habit\\webapplication1\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|c:\\users\\arwa.mohamed\\desktop\\arwa habit\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|c:\\users\\arwa.mohamed\\desktop\\arwa habit\\webapplication1\\webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|c:\\users\\arwa.mohamed\\desktop\\arwa habit\\webapplication1\\webapplication1\\models\\entities\\userreward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\entities\\userreward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|c:\\users\\arwa.mohamed\\desktop\\arwa habit\\webapplication1\\webapplication1\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|c:\\users\\arwa.mohamed\\desktop\\arwa habit\\webapplication1\\webapplication1\\models\\entities\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\entities\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|c:\\users\\arwa.mohamed\\desktop\\arwa habit\\webapplication1\\webapplication1\\models\\entities\\habitcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\entities\\habitcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|c:\\users\\arwa.mohamed\\desktop\\arwa habit\\webapplication1\\webapplication1\\models\\entities\\habit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D3C73-6342-49EE-A6B7-A8B56C50AFB3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\entities\\habit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T12:33:34.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:29:51.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:29:21.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserReward.cs",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\Models\\Entities\\UserReward.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Entities\\UserReward.cs",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\Models\\Entities\\UserReward.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Entities\\UserReward.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:07:41.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:52:36.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T08:48:55.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\Models\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\Models\\AppDBContext.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\AppDBContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:45:25.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:07:13.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reward.cs",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\Models\\Entities\\Reward.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Entities\\Reward.cs",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\Models\\Entities\\Reward.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Entities\\Reward.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:54:43.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HabitCategory.cs",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\Models\\Entities\\HabitCategory.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Entities\\HabitCategory.cs",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\Models\\Entities\\HabitCategory.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Entities\\HabitCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:53:47.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Habit.cs",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\Models\\Entities\\Habit.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Entities\\Habit.cs",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\arwa habit\\WebApplication1\\WebApplication1\\Models\\Entities\\Habit.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Entities\\Habit.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:53:10.443Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
